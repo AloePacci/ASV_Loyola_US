@@ -132,7 +132,7 @@ docker exec -it mysql-arm mysql -h127.0.0.1 -P3306 -uroot -p
 ```
 la contraseña es password
 
-Para la exportacion de los datos, a dos scripts .sh en las jetsons para la exportacion de los datos a un archivo csv (puede modificarse) a una carpeta. 
+Para la exportacion de los datos, hay dos scripts .sh en las jetsons para la exportacion de los datos a un archivo csv (puede modificarse) a una carpeta. Los scripts se encuentran en la carpeta "script"
 
 
 
